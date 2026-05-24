@@ -1,0 +1,6 @@
+{
+  "name": "Brutalist E-Commerce Hero",
+  "description": "A hyper-minimalist black e-commerce hero section with timezones, oversized typography, and abstract branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
